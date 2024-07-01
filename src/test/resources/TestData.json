@@ -1,0 +1,22 @@
+{
+  "signUp": {
+    "name": "aya",
+    "email": "aya0@test.com"
+  },
+  "accountInfo": {
+    "pass": "123456",
+    "firstname": "Aya",
+    "lastname": "Alaam",
+    "company": "GizaS",
+    "address1": "Giza",
+    "address2": "Giza",
+    "state": "Giza",
+    "city": "Giza",
+    "zipcode": "123456",
+    "mobilenumber": "01234567898"
+  },
+  "logIn": {
+    "email": "aya0@test.com",
+    "password": "123456"
+  }
+}

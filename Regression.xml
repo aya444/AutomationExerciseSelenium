@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "User Authorization">
+    <test verbose="2" name = "Register">
+        <classes>
+            <class name = "Register_Login_Logout.SignUp" />
+        </classes>
+    </test>
+
+    <test verbose="2" name = "LogIn">
+        <classes>
+            <class name = "Register_Login_Logout.LogIn" />
+        </classes>
+    </test>
+</suite>
